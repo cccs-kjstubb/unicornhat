@@ -22,5 +22,6 @@ Collection of answer code for Student challenges.
 
 # LINKS
 
-1. https://xantorohara.github.io/led-matrix-editor/
-2. https://github.com/pimoroni/unicorn-hat/blob/master/examples/ascii_pic.py
+1. Build Byte Arrays for unicornhat - https://xantorohara.github.io/led-matrix-editor/
+2. Official Unicornhat examples - https://github.com/pimoroni/unicorn-hat/blob/master/examples/ascii_pic.py
+3. unicornhat simulator - https://github.com/jayniz/unicorn-hat-sim
